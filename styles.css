@@ -1,0 +1,15 @@
+body{padding: 0em;}
+
+h1,h2{text-align: center;}
+
+p{font-size:30;}
+p{width:1000px;}
+p{font-family: cursive;}
+
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block;
+    margin: 0 auto;
+    padding-bottom: .5em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
